@@ -1,1 +1,1 @@
-# DailyCrypto
+# Stream
